@@ -1,0 +1,10 @@
+
+{"score":"aa","countOfGreen":0,"countOfBlue":0,"countOfBlack":3,"countOfClick":4}
+{"score":-8,"countOfGreen":0,"countOfBlue":0,"countOfBlack":3,"countOfClick":3}
+{"score":4,"countOfGreen":1,"countOfBlue":0,"countOfBlack":5,"countOfClick":7}
+{"score":12,"countOfGreen":1,"countOfBlue":0,"countOfBlack":2,"countOfClick":3}
+{"score":25,"countOfGreen":2,"countOfBlue":0,"countOfBlack":5,"countOfClick":7}
+{"score":38,"countOfGreen":4,"countOfBlue":0,"countOfBlack":9,"countOfClick":12}
+{"score":52,"countOfGreen":5,"countOfBlue":0,"countOfBlack":13,"countOfClick":17}
+{"score":63,"countOfGreen":6,"countOfBlue":0,"countOfBlack":14,"countOfClick":19}
+{"score":63,"countOfGreen":6,"countOfBlue":0,"countOfBlack":14,"countOfClick":19}
